@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea3_201020331</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--variables string del primer activity-->
+    <string name="tV_1">BIENVENIDOS</string>
+    <string name="tV_2">TAREA 3</string>
+    <string name="Bnext">Siguiente</string>
+    <!--variables string del segundo activity-->
+    <string name="tV_3">Ingrese un texto:</string>
+    <string name="Baceptar">Aceptar</string>
+
+</resources>
